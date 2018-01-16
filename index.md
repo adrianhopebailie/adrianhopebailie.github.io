@@ -7,6 +7,7 @@ GPG Key: DAEB1AE5D8E59EE6
 
 * Payment Request and https://indieweb.org/payment
 * Payment Architecture explainer with layering ala ILPv4 ideas
+* justaddpayments - Developer advocacy
 
 
 ## XRP Ledger Ideas
