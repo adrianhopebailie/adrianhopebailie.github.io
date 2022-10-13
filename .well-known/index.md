@@ -1,3 +1,6 @@
+# TEST
+
+```
 {
   "issuer": "https://adrian.hopebailie.example",
   "authorization_endpoint": "https://adrian.hopebailie.com/authorize",
@@ -19,3 +22,4 @@
     {"code": "EUR", "scale": 8}
   ]
 }
+```
