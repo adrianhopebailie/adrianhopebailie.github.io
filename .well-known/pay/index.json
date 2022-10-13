@@ -1,3 +1,4 @@
 {
-  "redirect" : "https://fynbos.me/adrian"
+  "alias" : "https://fynbos.me/adrian",
+  "ttl" : 3600
 }
